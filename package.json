@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypress:open": "$(npm bin)/cypress open"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/VanessaGeronimo/jogatinaTest/issues"
   },
-  "homepage": "https://github.com/VanessaGeronimo/jogatinaTest#readme"
+  "homepage": "https://github.com/VanessaGeronimo/jogatinaTest#readme",
+  "devDependencies": {
+    "cypress": "^8.3.1",
+    "cypress-plugin-snapshots": "^1.4.4",
+    "cypress-xpath": "^1.6.2",
+    "js-base64": "^2.5.2"
+  }
 }
