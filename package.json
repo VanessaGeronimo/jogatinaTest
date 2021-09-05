@@ -1,0 +1,19 @@
+{
+  "name": "jogatinatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanessaGeronimo/jogatinaTest.git"
+  },
+  "author": "vanessageronimo46@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanessaGeronimo/jogatinaTest/issues"
+  },
+  "homepage": "https://github.com/VanessaGeronimo/jogatinaTest#readme"
+}
